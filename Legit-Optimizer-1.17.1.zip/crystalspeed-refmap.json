@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "tk/jandev/crystalspeed/mixin/EndcrystalMixin": {
+      "damage": "Lnet/minecraft/class_1511;method_5643(Lnet/minecraft/class_1282;F)Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "tk/jandev/crystalspeed/mixin/EndcrystalMixin": {
+        "damage": "Lnet/minecraft/class_1511;method_5643(Lnet/minecraft/class_1282;F)Z"
+      }
+    }
+  }
+}
